@@ -9,9 +9,9 @@ Open atm.py
 # ---------------------
 
 On main screen of the atm simulator three parts are available;
-1.sign in 
-2.sign up
-3.management
+[1]sign in 
+[2]sign up
+[3]management
 First you have to sign up to the system, after your enrolment, you need to write your name, surname and password to sign in part..
 After signed in to the system you are able to choose any operation from the list below
 
@@ -19,11 +19,11 @@ After signed in to the system you are able to choose any operation from the list
 # Welcome Yağız Kiremitci
 # ------------------------------  
 
-1.Account information  
-2.Withdraw money  
-3.Deposit money
-4.Money transfer
-Q.Quit
+[1]Account information  
+[2]Withdraw money  
+[3]Deposit money
+[4]Money transfer
+[Q]Quit
 
 # ------------------------------
 
@@ -35,8 +35,8 @@ When you access the manegement the screen will be open below
 # Management part 
 # --------------------------------
 
-1.Show the customer informations
-2.Remove customers
-Q to return main menu
+[1].Show the customer informations
+[2].Remove customers
+[Q] to return main menu
 
 # -------------------------------- 

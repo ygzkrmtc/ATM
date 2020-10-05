@@ -25,7 +25,7 @@ Q.Quit
 After your operations you are able to push the q button to return main menu
 Lastly, you can choose the menagement part to access the list of the customers and remove the customers who you want
 When you access the manegement the screen will be open below
-# --------------------------------
+# ------------------------------
 # Management part 
 # --------------------------------
 1.Show the customer informationS

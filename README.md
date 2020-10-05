@@ -6,7 +6,7 @@ Open atm.py
 
 # ---------------------
 # Properties
-#----------------------
+# ---------------------
 On main screen of the atm simulator three parts are available;
 1.sign in 
 2.sign up
@@ -21,7 +21,7 @@ After signed in to the system you are able to choose any operation from the list
 3.Deposit money
 4.Money transfer
 Q.Quit
-# ---------------------
+# ------------------------------
 After your operations you are able to push the q button to return main menu
 Lastly, you can choose the menagement part to access the list of the customers and remove the customers who you want
 When you access the manegement the screen will be open below

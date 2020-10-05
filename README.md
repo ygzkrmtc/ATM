@@ -1,2 +1,5 @@
+# -------------
 # ATM-SIMULATOR
-#Open atm.py
+# -------------
+Open atm.py
+
